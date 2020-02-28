@@ -5,7 +5,6 @@
 
 
 //suggestions: add a powerup that wipes the whole screen of asteroids
-//build you fucker
 #include "sprites.h"
 
 /* Keep these headers */
